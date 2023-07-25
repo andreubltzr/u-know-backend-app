@@ -1,123 +1,16 @@
 [
   {
-    "name": "Software Engineering Fundamentals",
-    "price": 100,
-    "topic": "Software Engineering",
-    "difficulty": "Intermediate",
-    "tags": ["software engineering", "programming", "development"],
-    "bought": false,
-    "create_date": "2023-07-25",
-    "content": "In this course, you will learn the foundational principles of software engineering, including software development methodologies, version control, and testing.",
-    "updatedAt": "2023-07-25T08:15:00.123Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "Web Development Bootcamp",
-    "price": 80,
-    "topic": "Web Development",
-    "difficulty": "Beginner",
-    "tags": ["web development", "HTML", "CSS"],
-    "bought": true,
-    "create_date": "2023-07-15",
-    "content": "Join this comprehensive web development bootcamp to master the art of building interactive and responsive websites from scratch.",
-    "updatedAt": "2023-07-25T09:30:12.987Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "Introduction to Python",
-    "price": 60,
-    "topic": "Python",
-    "difficulty": "Beginner",
-    "tags": ["Python", "programming", "coding"],
-    "bought": false,
-    "create_date": "2023-07-10",
-    "content": "Learn the fundamentals of Python programming and unleash the power of this versatile language in various applications.",
-    "updatedAt": "2023-07-25T11:20:55.341Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "JavaScript Fundamentals",
-    "price": 90,
-    "topic": "JavaScript",
-    "difficulty": "Intermediate",
-    "tags": ["JavaScript", "web development", "frontend"],
-    "bought": true,
-    "create_date": "2023-07-12",
-    "content": "Master the essentials of JavaScript to build interactive and dynamic web applications.",
-    "updatedAt": "2023-07-25T13:45:30.789Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "Java Programming",
-    "price": 95,
-    "topic": "Java",
-    "difficulty": "Intermediate",
-    "tags": ["Java", "programming", "backend"],
-    "bought": false,
-    "create_date": "2023-07-18",
-    "content": "Learn object-oriented programming with Java and develop powerful, scalable applications.",
-    "updatedAt": "2023-07-25T15:10:20.502Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "C# Mastery",
-    "price": 85,
-    "topic": "C#",
-    "difficulty": "Intermediate",
-    "tags": ["C#", "programming", "development"],
-    "bought": true,
-    "create_date": "2023-07-20",
-    "content": "Become proficient in C# programming and build Windows applications and games.",
-    "updatedAt": "2023-07-25T16:55:10.115Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "Python for Data Science",
-    "price": 75,
-    "topic": "Python",
-    "difficulty": "Intermediate",
-    "tags": ["Python", "data science", "machine learning"],
-    "bought": false,
-    "create_date": "2023-07-22",
-    "content": "Dive into data science with Python and learn how to analyze and visualize data, and apply machine learning algorithms.",
-    "updatedAt": "2023-07-25T18:20:45.919Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "React Fundamentals",
-    "price": 90,
-    "topic": "React",
-    "difficulty": "Intermediate",
-    "tags": ["React", "web development", "frontend"],
-    "bought": true,
-    "create_date": "2023-07-14",
-    "content": "Learn the fundamentals of React and build interactive user interfaces for modern web applications.",
-    "updatedAt": "2023-07-25T20:05:55.223Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "Node.js Essentials",
-    "price": 85,
-    "topic": "Node.js",
-    "difficulty": "Intermediate",
-    "tags": ["Node.js", "web development", "backend"],
-    "bought": false,
-    "create_date": "2023-07-17",
-    "content": "Get started with Node.js and build scalable, high-performance server-side applications.",
-    "updatedAt": "2023-07-25T21:40:30.601Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
     "name": "Full-Stack Web Development",
-    "price": 120,
+    "price": 100,
     "topic": "Web Development",
-    "difficulty": "Advanced",
-    "tags": ["full-stack", "web development", "frontend", "backend"],
+    "difficulty": "Intermediate",
+    "tags": ["web development", "frontend", "backend"],
     "bought": true,
-    "create_date": "2023-07-19",
+    "create_date": "2023-07-21",
     "content": "Become a full-stack web developer and build end-to-end web applications using cutting-edge technologies.",
     "updatedAt": "2023-07-25T22:55:12.808Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.7
   },
   {
     "name": "C++ Programming",
@@ -129,7 +22,8 @@
     "create_date": "2023-07-23",
     "content": "Learn C++ and master object-oriented programming to create efficient and powerful applications.",
     "updatedAt": "2023-07-25T23:40:50.307Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.2
   },
   {
     "name": "Data Structures and Algorithms",
@@ -141,7 +35,8 @@
     "create_date": "2023-07-28",
     "content": "Learn essential data structures and algorithms to become a better problem solver and ace coding interviews.",
     "updatedAt": "2023-07-26T01:15:15.415Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.8
   },
   {
     "name": "Ruby on Rails",
@@ -153,7 +48,8 @@
     "create_date": "2023-07-29",
     "content": "Build web applications rapidly with Ruby on Rails, the popular web framework.",
     "updatedAt": "2023-07-26T02:30:40.902Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.5
   },
   {
     "name": "Cybersecurity Fundamentals",
@@ -165,7 +61,8 @@
     "create_date": "2023-07-31",
     "content": "Understand the core concepts of cybersecurity and protect against cyber threats.",
     "updatedAt": "2023-07-26T04:05:25.609Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.6
   },
   {
     "name": "Vue.js Essentials",
@@ -177,7 +74,8 @@
     "create_date": "2023-08-02",
     "content": "Learn Vue.js and build modern, reactive user interfaces for your web applications.",
     "updatedAt": "2023-07-26T05:40:10.234Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.4
   },
   {
     "name": "Go Programming",
@@ -189,7 +87,8 @@
     "create_date": "2023-08-04",
     "content": "Dive into the world of Go programming and build efficient, concurrent applications.",
     "updatedAt": "2023-07-26T07:15:55.412Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.9
   },
   {
     "name": "SQL Fundamentals",
@@ -201,7 +100,8 @@
     "create_date": "2023-08-06",
     "content": "Master SQL and learn to work with databases for data manipulation and querying.",
     "updatedAt": "2023-07-26T08:30:30.821Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.2
   },
   {
     "name": "Swift for iOS Development",
@@ -213,23 +113,25 @@
     "create_date": "2023-08-08",
     "content": "Learn Swift programming and create iOS applications for iPhones and iPads.",
     "updatedAt": "2023-07-26T09:55:20.203Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.6
   },
   {
-    "name": "PHP Web Development",
-    "price": 85,
-    "topic": "PHP",
+    "name": "Python for Data Science",
+    "price": 90,
+    "topic": "Python",
     "difficulty": "Intermediate",
-    "tags": ["PHP", "web development", "backend"],
+    "tags": ["Python", "data science", "machine learning"],
     "bought": false,
     "create_date": "2023-08-10",
-    "content": "Create dynamic websites with PHP and interact with databases for backend development.",
-    "updatedAt": "2023-07-26T11:20:45.608Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "content": "Explore Python for data analysis, visualization, and machine learning.",
+    "updatedAt": "2023-07-26T11:20:10.124Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.8
   },
   {
     "name": "Network Security",
-    "price": 95,
+    "price": 105,
     "topic": "Cybersecurity",
     "difficulty": "Intermediate",
     "tags": ["network security", "cybersecurity", "information security"],
@@ -237,7 +139,8 @@
     "create_date": "2023-08-12",
     "content": "Learn how to secure networks and protect against cyber threats in this comprehensive course.",
     "updatedAt": "2023-07-26T12:45:35.705Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.5
   },
   {
     "name": "TypeScript Fundamentals",
@@ -249,7 +152,8 @@
     "create_date": "2023-08-14",
     "content": "Get started with TypeScript and enhance your JavaScript code with static typing and other features.",
     "updatedAt": "2023-07-26T14:10:20.118Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.3
   },
   {
     "name": "Rust Programming",
@@ -261,7 +165,8 @@
     "create_date": "2023-08-16",
     "content": "Learn Rust programming and build safe and performant systems-level applications.",
     "updatedAt": "2023-07-26T15:55:45.919Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.7
   },
   {
     "name": "Docker Essentials",
@@ -273,7 +178,8 @@
     "create_date": "2023-08-18",
     "content": "Master Docker and containerization to deploy and manage applications efficiently.",
     "updatedAt": "2023-07-26T17:20:30.523Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.4
   },
   {
     "name": "Angular Essentials",
@@ -285,7 +191,8 @@
     "create_date": "2023-08-20",
     "content": "Learn Angular and build dynamic, single-page web applications.",
     "updatedAt": "2023-07-26T18:55:12.713Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.6
   },
   {
     "name": "Kotlin Programming",
@@ -297,7 +204,8 @@
     "create_date": "2023-08-22",
     "content": "Explore Kotlin and build Android applications and backend services with this versatile language.",
     "updatedAt": "2023-07-26T20:30:45.421Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.3
   },
   {
     "name": "Machine Learning with Python",
@@ -309,7 +217,8 @@
     "create_date": "2023-08-24",
     "content": "Dive into machine learning and use Python to develop intelligent applications.",
     "updatedAt": "2023-07-26T21:45:30.107Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.9
   },
   {
     "name": "Scala Fundamentals",
@@ -321,7 +230,8 @@
     "create_date": "2023-08-26",
     "content": "Learn the functional programming paradigm with Scala and build scalable applications.",
     "updatedAt": "2023-07-26T23:10:15.913Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.7
   },
   {
     "name": "Python for Web Scraping",
@@ -331,21 +241,23 @@
     "tags": ["Python", "web scraping", "data extraction"],
     "bought": true,
     "create_date": "2023-08-28",
-    "content": "Learn how to extract data from websites using Python for various applications.",
-    "updatedAt": "2023-07-27T00:35:20.611Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "content": "Explore web scraping with Python and extract data from websites for analysis.",
+    "updatedAt": "2023-07-27T00:35:10.815Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.4
   },
   {
-    "name": "R Programming",
+    "name": "React Native App Development",
     "price": 95,
-    "topic": "R",
+    "topic": "React Native",
     "difficulty": "Intermediate",
-    "tags": ["R", "data analysis", "statistics"],
+    "tags": ["React Native", "app development", "mobile"],
     "bought": false,
     "create_date": "2023-08-30",
-    "content": "Explore R programming and perform data analysis and statistical modeling.",
-    "updatedAt": "2023-07-27T02:00:55.809Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "content": "Build cross-platform mobile applications with React Native and JavaScript.",
+    "updatedAt": "2023-07-27T02:00:45.509Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.6
   },
   {
     "name": "Ethical Hacking",
@@ -357,7 +269,8 @@
     "create_date": "2023-09-01",
     "content": "Become an ethical hacker and learn how to identify and fix vulnerabilities in computer systems.",
     "updatedAt": "2023-07-27T03:25:30.222Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.8
   },
   {
     "name": "GraphQL Essentials",
@@ -369,7 +282,8 @@
     "create_date": "2023-09-03",
     "content": "Learn GraphQL and build efficient APIs for modern web applications.",
     "updatedAt": "2023-07-27T04:50:10.318Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.5
   },
   {
     "name": "Scala for Spark",
@@ -381,7 +295,8 @@
     "create_date": "2023-09-05",
     "content": "Learn Scala for Apache Spark and process large-scale data with ease.",
     "updatedAt": "2023-07-27T06:15:05.419Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.7
   },
   {
     "name": "Flutter App Development",
@@ -393,7 +308,8 @@
     "create_date": "2023-09-07",
     "content": "Create cross-platform mobile applications with Flutter and Dart.",
     "updatedAt": "2023-07-27T07:40:50.623Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.6
   },
   {
     "name": "Hadoop for Big Data",
@@ -405,7 +321,8 @@
     "create_date": "2023-09-09",
     "content": "Learn Hadoop and process and analyze massive datasets with this powerful framework.",
     "updatedAt": "2023-07-27T09:05:30.124Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.7
   },
   {
     "name": "iOS App Development with Swift",
@@ -417,7 +334,8 @@
     "create_date": "2023-09-11",
     "content": "Master iOS app development using Swift and build stunning mobile applications.",
     "updatedAt": "2023-07-27T10:30:15.527Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.5
   },
   {
     "name": "GraphQL with Apollo",
@@ -429,7 +347,8 @@
     "create_date": "2023-09-13",
     "content": "Use Apollo with GraphQL to build robust and scalable APIs for your web applications.",
     "updatedAt": "2023-07-27T11:55:10.724Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.8
   },
   {
     "name": "TensorFlow for Deep Learning",
@@ -439,33 +358,10 @@
     "tags": ["TensorFlow", "deep learning", "machine learning"],
     "bought": false,
     "create_date": "2023-09-15",
-    "content": "Explore TensorFlow and build neural networks for deep learning applications.",
-    "updatedAt": "2023-07-27T13:20:35.919Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "Python for Web Development",
-    "price": 85,
-    "topic": "Python",
-    "difficulty": "Intermediate",
-    "tags": ["Python", "web development", "backend"],
-    "bought": true,
-    "create_date": "2023-09-17",
-    "content": "Build dynamic web applications with Python and popular web frameworks.",
-    "updatedAt": "2023-07-27T14:45:20.302Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
-  },
-  {
-    "name": "Computer Networks",
-    "price": 95,
-    "topic": "Networking",
-    "difficulty": "Intermediate",
-    "tags": ["computer networks", "networking", "IT"],
-    "bought": false,
-    "create_date": "2023-09-19",
-    "content": "Explore computer networks and understand the architecture and protocols of modern networks.",
-    "updatedAt": "2023-07-27T16:10:15.618Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "content": "Explore deep learning with TensorFlow and build sophisticated AI applications.",
+    "updatedAt": "2023-07-27T13:20:55.113Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.6
   },
   {
     "name": "Java Spring Framework",
@@ -474,10 +370,11 @@
     "difficulty": "Intermediate",
     "tags": ["Java", "Spring Framework", "backend"],
     "bought": true,
-    "create_date": "2023-09-21",
+    "create_date": "2023-09-17",
     "content": "Learn Spring Framework with Java and build enterprise-level web applications.",
-    "updatedAt": "2023-07-27T17:35:10.727Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "updatedAt": "2023-07-27T14:45:40.625Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.9
   },
   {
     "name": "Android App Development",
@@ -486,10 +383,11 @@
     "difficulty": "Intermediate",
     "tags": ["Android", "app development", "mobile"],
     "bought": false,
-    "create_date": "2023-09-23",
+    "create_date": "2023-09-19",
     "content": "Build Android applications and unleash the potential of the Android platform.",
-    "updatedAt": "2023-07-27T19:00:35.912Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "updatedAt": "2023-07-27T16:10:25.912Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.5
   },
   {
     "name": "DevOps Fundamentals",
@@ -498,10 +396,11 @@
     "difficulty": "Intermediate",
     "tags": ["DevOps", "continuous integration", "continuous deployment"],
     "bought": true,
-    "create_date": "2023-09-25",
+    "create_date": "2023-09-21",
     "content": "Master DevOps practices and automate software development processes.",
-    "updatedAt": "2023-07-27T20:25:10.723Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "updatedAt": "2023-07-27T17:35:10.727Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.7
   },
   {
     "name": "Django Web Development",
@@ -510,10 +409,11 @@
     "difficulty": "Intermediate",
     "tags": ["Python", "Django", "web development"],
     "bought": false,
-    "create_date": "2023-09-27",
+    "create_date": "2023-09-23",
     "content": "Build web applications with Django and Python, the popular web framework.",
-    "updatedAt": "2023-07-27T21:50:45.421Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "updatedAt": "2023-07-27T19:00:35.912Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.4
   },
   {
     "name": "Azure Cloud Computing",
@@ -522,10 +422,11 @@
     "difficulty": "Intermediate",
     "tags": ["Azure", "cloud computing", "Microsoft"],
     "bought": true,
-    "create_date": "2023-09-29",
+    "create_date": "2023-09-25",
     "content": "Explore Microsoft Azure and learn cloud computing concepts for scalable applications.",
-    "updatedAt": "2023-07-27T23:15:30.615Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "updatedAt": "2023-07-27T20:25:30.615Z",
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.9
   },
   {
     "name": "Vue.js Advanced Concepts",
@@ -534,9 +435,10 @@
     "difficulty": "Advanced",
     "tags": ["Vue.js", "web development", "frontend"],
     "bought": false,
-    "create_date": "2023-10-01",
+    "create_date": "2023-09-27",
     "content": "Take your Vue.js skills to the next level with advanced techniques and best practices.",
     "updatedAt": "2023-07-28T00:40:10.318Z",
-    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png"
+    "image": "https://images.vexels.com/media/users/3/224169/isolated/preview/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png",
+    "rating": 4.7
   }
 ]
