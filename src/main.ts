@@ -1,14 +1,15 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
-import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
-import { ValidationPipe } from '@nestjs/common';
 
 async function bootstrap() {
 	const app = await NestFactory.create(AppModule);
 
 	app.enableCors();
-	
-	// Configuración de SWAGGER
+
+	app.setGlobalPrefix('api');
+	await app.listen(3000);
+
+	/* // Configuración de SWAGGER
 	const options = new DocumentBuilder()
 		.setTitle('U-Know platform API')
 		.setDescription('Documentation of U-Know platform API')
@@ -25,6 +26,6 @@ async function bootstrap() {
 		forbidNonWhitelisted: true
 	}));
 
-	await app.listen(process.env.PORT);
+	await app.listen(process.env.PORT); */
 }
 bootstrap();

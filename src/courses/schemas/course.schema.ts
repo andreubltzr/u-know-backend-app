@@ -14,8 +14,12 @@ export class Course {
   	price: number;
 
   @ApiProperty({ example: 'Web Development' })
-  @Prop({ required: true, enum: [ 'Web Development', 'Frontend', 'Backend' ] })
+  @Prop({ required: true })
   	topic: string;
+
+  @ApiProperty({ example: 'image.png' })
+  @Prop({ required: true })
+  	img: string;
 
   @ApiProperty({ example: 'Beginner' })
   @Prop({ required: true, enum: [ 'Beginner', 'Medium', 'Advanced' ] })
